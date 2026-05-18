@@ -111,7 +111,7 @@ function App() {
     <BrowserRouter>
       <nav>
         <Link to="/">Home</Link> |{" "}
-        <Link to="/Todo">Todo</Link> |{" "}
+        <Link to="/Todo">Todo App</Link> |{" "}
         {/* <Link to="/about">About</Link> |{" "}
         <Link to="/contact">Contact</Link> */}
       </nav>
